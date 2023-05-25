@@ -1,1 +1,2 @@
-"# Trading-Bot" 
+# Algorithmic Trading Bot
+
