@@ -40,6 +40,10 @@ Factors to consider when choosing a trading strategy.
 
 ![Alt text](Images/attachment-1377032441.jpg)
 
+# Getting Data and Backtesting
+- write backtesting code
+- get data
+
 
 
 ## Resources and Notes
