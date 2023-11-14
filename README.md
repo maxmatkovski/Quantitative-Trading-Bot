@@ -24,6 +24,7 @@ Factors to consider when choosing a trading strategy.
 3. **Capital Availability:** Consider how much money you are willing to invest. Some strategies require a substantial initial investment, while others can be executed with limited capital.
 4. **Time Commitment:** Evaluate how much time you can dedicate to your trading activities. Active trading strategies like day trading require considerable time and attention, whereas passive strategies need less frequent monitoring.
 5. **Market Knowledge:** Assess your understanding of the markets and the specific assets you're interested in. A strategy that aligns with your level of expertise can help in making more informed decisions and reduce the likelihood of significant losses.
+
 ![Alt text](shutterstock-720579289-2589492722.jpg)
 
 
@@ -36,6 +37,7 @@ Factors to consider when choosing a trading strategy.
 6. **Cryptocurrencies:** The crypto market, with its high volatility and 24/7 operation, presents unique opportunities for algorithmic traders, though it also carries higher risks.
 7. **Exchange-Traded Funds (ETFs):** ETFs, which track indices, commodities, or baskets of assets, are also a popular choice for algorithmic trading, especially for strategies like statistical arbitrage.
 8. **Index and Mutual Funds:** While typically associated with passive management, these funds can also be the subject of algorithmic trades, particularly for strategies based on market timing and index fund rebalancing.
+
 ![Alt text](attachment-1377032441.jpg)
 
 ## Resources and Notes
