@@ -1,5 +1,14 @@
 # Algorithmic Trading Bot
 
+## What is Algorithmic Trading?
+Algorithmic trading utilizes automated, pre-programmed instructions for executing trades, optimizing factors like price, time, and volume to outperform human traders. It facilitates diverse strategies such as statistical arbitrage, momentum, mean reversion, and machine learning-based approaches. By processing information rapidly and reducing human error, algorithmic trading enhances market efficiency but can also amplify market volatility. The success of these strategies hinges on data quality, algorithmic sophistication, and the speed of execution. 
+
+![Alt text](EMA-Crossover-610506519.png)
+
+
+
+
+
 AQR Quant Leads
 - Bryan T. Kelly
 - Markus Pelger
