@@ -3,7 +3,7 @@
 ## What is Algorithmic Trading?
 Algorithmic trading utilizes automated, pre-programmed instructions for executing trades, optimizing factors like price, time, and volume to outperform human traders. It facilitates diverse strategies such as statistical arbitrage, momentum, mean reversion, and machine learning-based approaches. By processing information rapidly and reducing human error, algorithmic trading enhances market efficiency but can also amplify market volatility. The success of these strategies hinges on data quality, algorithmic sophistication, and the speed of execution. 
 
-![Alt text](Images/EMA-Crossover-610506519.png)
+![Alt text](Images/Image1.png)
 
 ## Types of Algorithmic Trading Strategies
 1. **Statistical Arbitrage:** This strategy involves exploiting statistical mispricing of one or more assets based on the expected value of these assets. It typically involves complex mathematical models and can be applied to various asset classes.
@@ -25,7 +25,7 @@ Factors to consider when choosing a trading strategy.
 4. **Time Commitment:** Evaluate how much time you can dedicate to your trading activities. Active trading strategies like day trading require considerable time and attention, whereas passive strategies need less frequent monitoring.
 5. **Market Knowledge:** Assess your understanding of the markets and the specific assets you're interested in. A strategy that aligns with your level of expertise can help in making more informed decisions and reduce the likelihood of significant losses.
 
-![Alt text](Images/shutterstock-720579289-2589492722.jpg)
+![Alt text](Images/Image2.jpg)
 
 
 ## Types of Securities Traded
@@ -38,7 +38,7 @@ Factors to consider when choosing a trading strategy.
 7. **Exchange-Traded Funds (ETFs):** ETFs, which track indices, commodities, or baskets of assets, are also a popular choice for algorithmic trading, especially for strategies like statistical arbitrage.
 8. **Index and Mutual Funds:** While typically associated with passive management, these funds can also be the subject of algorithmic trades, particularly for strategies based on market timing and index fund rebalancing.
 
-![Alt text](Images/attachment-1377032441.jpg)
+![Alt text](Images/Image3.jpg)
 
 # Getting Data and Backtesting
 - write backtesting code
